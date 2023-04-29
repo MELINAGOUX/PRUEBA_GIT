@@ -1,0 +1,33 @@
+body {
+    background-color: #212121;
+}
+
+h1 {
+    color: blanchedalmond;
+    font-size: 120px;
+    font-weight: 800;
+    /*background-color: #212121;*/
+    font-family: 'Montserrat', sans-serif;
+
+
+
+}
+
+.parrafo-font {
+    color: #FAFAFA;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+
+.programadora {
+    color: brown;
+}
+
+.docente {
+    color: bisque;
+}
+
+.pianista {
+    color:darkcyan;
+}
